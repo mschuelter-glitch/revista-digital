@@ -1,0 +1,7 @@
+body{
+    background-color: aliceblue;
+    color: black;
+}
+.cabecalho{
+    background:linear-gradient(to right, #e63946 30%, black 30%)
+}
