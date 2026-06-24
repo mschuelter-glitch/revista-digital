@@ -16,3 +16,7 @@ body{
 .cabecalho h1{
     margin-left: 30%;
 }
+.cabecalho{
+    background-image: url(./img/);
+    height: 300px;
+}
