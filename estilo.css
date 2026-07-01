@@ -5,10 +5,12 @@ body{
 
 .cabecalho{
     background-image: url(./img/retrato-jogo-de-um-adoravel-pug-filhote-cachorro_53876-64794\ \(2\).avif);
-    height: 300px; 
+    height: 500px; 
     background-repeat: no-repeat;
     background-size: cover;
-    display: grid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     grid-template-columns: 50% 50%;
 }
 
