@@ -2,38 +2,13 @@ body{
     background-color: rgb(77, 146, 207);
     color: black;
 }
-.cabecalho{
-    background:linear-gradient(to right, #032672 30%, rgb(218, 159, 159) 30%);
-    display: flex;
-    flex-direction:column;
-    align-items: center;
-}
 
-.cabecalho img{
-    text-align: center;
-    width: 40%;
-}
-.cabecalho h1{
-    margin-left: 30%;
-}
 .cabecalho{
-    background-image: url(./img/);
+    background-image: url(./img/retrato-jogo-de-um-adoravel-pug-filhote-cachorro_53876-64794\ \(2\).avif);
     height: 300px; 
     background-repeat: no-repeat;
     background-size: cover;
     display: grid;
     grid-template-columns: 50% 50%;
 }
-.cabecalho-img{
-    width: 50px
-    height;50px;
-}
-.cabecalho-secundario{
-    display: flex;
-}
-.cabecalho-texto{
-    display:flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
+
