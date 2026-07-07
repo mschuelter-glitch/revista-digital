@@ -14,3 +14,13 @@ body{
     
 }
 
+.conteudo01{
+    display: flex;
+    padding: 32px;
+    justify-content: center;
+    align-items: center;
+}
+
+.conteudo01-img{
+    width: 40;
+}
