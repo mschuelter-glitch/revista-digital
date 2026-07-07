@@ -14,7 +14,7 @@ body{
     
 }
 
-.conteudo01-esquerdeo{
+.conteudo01{
     display: flex;
     padding: 32px;
     justify-content: center;
