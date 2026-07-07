@@ -14,7 +14,7 @@ body{
     
 }
 
-.conteudo01{
+.conteudo01-esquerdeo{
     display: flex;
     padding: 32px;
     justify-content: center;
@@ -27,4 +27,8 @@ body{
 
 .conteudo01-img{
     width: 40;
+}
+.conteudo01-direito{
+    background-color: cadetblue;
+    padding: 32px;
 }
