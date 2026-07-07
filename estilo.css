@@ -19,7 +19,10 @@ body{
     padding: 32px;
     justify-content: center;
     align-items: center;
+    background-color: aquamarine;
+    font-size: 24px;
 }
+
 
 .conteudo01-img{
     width: 40;
